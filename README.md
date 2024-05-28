@@ -1,4 +1,4 @@
-<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=storyblok&logoColor=FE2EF7"/></a>
+<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FE2EF7"/></a>
 <!--
 **Worldofgentleken/Worldofgentleken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
