@@ -1,4 +1,7 @@
 <a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FE2EF7"/></a>
+
+2023.7- 2024.1 파이썬기반 AI 프로젝트/코리아IT아카데미.  
+2024.11-2024.4 빅데이터취업부트캠프 / zerobase.  
 <!--
 **Worldofgentleken/Worldofgentleken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
