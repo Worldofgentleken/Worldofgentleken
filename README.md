@@ -1,4 +1,4 @@
-<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FE2EF7"/></a>    
+<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FFFFFFF"/></a>    
 2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.      
 2024.4 ~ AICC NLP 과정 / 코드랩      
 <!--
