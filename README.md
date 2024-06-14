@@ -3,7 +3,7 @@
 > 🌱 2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.      
 > 🌱 2024.4 ~ AICC NLP 과정 / 코드랩      
 👨🏻‍💻 Studying     
-> <img src="https://img.shields.io/badge/Python-#3776AB?style= for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style= for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style= for-the-badge&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Swift-F05138?style= for-the-badge&logo=swift&logoColor=FFFFFF"/>
+> <img src="https://img.shields.io/badge/Python-3776AB?style= for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style= for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style= for-the-badge&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Swift-F05138?style= for-the-badge&logo=swift&logoColor=FFFFFF"/>
 
 
 <!--
