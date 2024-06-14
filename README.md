@@ -3,7 +3,7 @@
 > 🌱 2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.      
 > 🌱 2024.4 ~ AICC NLP 과정 / 코드랩      
 👨🏻‍💻 Studying     
-> <img src="https://img.shields.io/badge/Python-F5A9F2?style= for-the-badge&logo=python&logoColor=#3776AB"/>
+> <img src="https://img.shields.io/badge/Python-F5A9F2?style= for-the-badge&logo=python&logoColor=FFFFFF"/>
 
 
 <!--
