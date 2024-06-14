@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FFFFFFF"/></a> <img src="https://img.shields.io/badge/djman8787@gmail.com-FFFFFF?style= for-the-badge&logo=gmail&logoColor=EA4335"/> <img src="https://img.shields.io/badge/Portfolio-8181F7?style= for-the-badge&logo=notion&logoColor=FFFFFF"/>     
        
 📚 Boot camp      
