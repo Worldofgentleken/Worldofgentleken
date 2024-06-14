@@ -1,6 +1,12 @@
 <a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style= for-the-badge&logo=tistory&logoColor=FFFFFFF"/></a> <img src="https://img.shields.io/badge/djman8787@gmail.com-FFFFFF?style= for-the-badge&logo=gmail&logoColor=EA4335"/>      
-2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.      
-2024.4 ~ AICC NLP 과정 / 코드랩      
+📚 Boot camp
+- 🌱 2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.      
+- 🌱 2024.4 ~ AICC NLP 과정 / 코드랩
+👨🏻‍💻
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Worldofgentleken/Worldofgentleken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
