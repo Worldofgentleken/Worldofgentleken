@@ -4,9 +4,6 @@
 - 🌱 2024.4 ~ AICC NLP 과정 / 코드랩
 👨🏻‍💻
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worldofgentleken&layout=donut)](https://github.com/Worldofgentleken/github-readme-stats)
-
 <!--
 **Worldofgentleken/Worldofgentleken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +20,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Worldofgentleken&show_icons=true&theme=ambient_gradient) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djman8787)](https://solved.ac/djman8787)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worldofgentleken&layout=donut)](https://github.com/Worldofgentleken/github-readme-stats)
