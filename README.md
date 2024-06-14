@@ -5,8 +5,7 @@
 👨🏻‍💻
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worldofgentleken&size_weight=0.5&count_weight=0.5)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worldofgentleken&layout=donut)](https://github.com/Worldofgentleken/github-readme-stats)
 
 <!--
 **Worldofgentleken/Worldofgentleken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
