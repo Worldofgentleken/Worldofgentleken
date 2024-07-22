@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=World%20Of%20GentleKen&fontSize=90)
 
-<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style=for-the-badge&logo=tistory&logoColor=FFFFFFF"/></a> <img src="https://img.shields.io/badge/djman8787@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/> <a href="https://www.notion.so/02e10563dd7c4d82af2a7b38f2302107" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8181F7?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>     
+<a href="https://gentleken.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-8904B1?style=for-the-badge&logo=tistory&logoColor=FFFFFFF"/></a> <img src="https://img.shields.io/badge/djman8787@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/> <a href="https://resilient-colossus-2b3.notion.site/02e10563dd7c4d82af2a7b38f2302107?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8181F7?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>     
        
 ### 📚 Boot camp      
 🌱 2024.11 - 2024.4 빅데이터취업부트캠프 / zerobase.        
